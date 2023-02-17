@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-container {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    background-color: #b8bcb8;
+    color: white;
+}
+
+.items {
+    display: flex;
+    list-style: none;
+}
+.item {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 6px;
+    margin-right: 10px;
+}
