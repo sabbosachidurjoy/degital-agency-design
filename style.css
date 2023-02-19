@@ -164,3 +164,25 @@ ol {
 .service-left {
     width: 50%;
 }
+
+
+.appointment-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: -70px;
+}
+.phone-call{
+    display: flex;
+
+}
+.call-icons{
+    width: 90px;
+    padding: 10px;
+}
